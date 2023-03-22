@@ -1,3 +1,3 @@
-[submodule "dyvine-holistic-frontend"]
-	path = dyvine-holistic-frontend
+[submodule "frontend"]
+	path = frontend
 	url = git@github.com:GillyRabutTsurwa/dyvine-holistic-frontend.git
